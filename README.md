@@ -1,10 +1,10 @@
-## README para Projeto Fullstack "Sporty" (4 Aulas)
+## README para Projeto Fullstack "Spotify" (4 Aulas)
 
-Este README detalha o projeto "Sporty", um aplicativo web fullstack para entusiastas do esporte encontrarem e participarem de diversas atividades esportivas em sua região. O projeto será desenvolvido ao longo de 4 aulas, com foco em construção via código.
+Este README detalha o projeto "Spotify", um aplicativo web fullstack para entusiastas do esporte encontrarem e participarem de diversas atividades esportivas em sua região. O projeto será desenvolvido ao longo de 4 aulas, com foco em construção via código.
 
 ### Visão Geral do Projeto
 
-O "Sporty" será construído utilizando tecnologias modernas de desenvolvimento web, abrangendo tanto o frontend quanto o backend. Cada aula focará em aspectos específicos da aplicação, permitindo a construção incremental do projeto.
+O "Spotify" será construído utilizando tecnologias modernas de desenvolvimento web, abrangendo tanto o frontend quanto o backend. Cada aula focará em aspectos específicos da aplicação, permitindo a construção incremental do projeto.
 
 ### Tecnologias Utilizadas
 
@@ -24,13 +24,13 @@ O "Sporty" será construído utilizando tecnologias modernas de desenvolvimento 
 1.  **Clone o Repositório:**
 
     ```bash
-    git clone [https://github.com/seu-usuario/sporty.git](https://github.com/seu-usuario/sporty.git)
+    git clone [https://github.com/seu-usuario/Spotify.git](https://github.com/Ezhreal/Projeto-Spotify.git)
     ```
 
 2.  **Instale as Dependências:**
 
     ```bash
-    cd sporty
+    cd Spotify
     npm install
     ```
 
